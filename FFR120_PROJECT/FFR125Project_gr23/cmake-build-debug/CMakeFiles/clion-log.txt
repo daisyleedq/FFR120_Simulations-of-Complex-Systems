@@ -1,0 +1,4 @@
+/home/daisy/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/163.15188.10/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/Documents/PG_1Semester/CUDA/FFR125Project
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/Documents/PG_1Semester/CUDA/FFR125Project/cmake-build-debug

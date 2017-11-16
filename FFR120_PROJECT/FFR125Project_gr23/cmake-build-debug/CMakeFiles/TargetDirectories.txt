@@ -1,0 +1,3 @@
+/mnt/Documents/PG_1Semester/CUDA/FFR125Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/Documents/PG_1Semester/CUDA/FFR125Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/Documents/PG_1Semester/CUDA/FFR125Project/cmake-build-debug/CMakeFiles/FFR125Project.dir

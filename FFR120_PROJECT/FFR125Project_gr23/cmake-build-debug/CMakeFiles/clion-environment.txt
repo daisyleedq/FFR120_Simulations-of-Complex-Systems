@@ -1,0 +1,1 @@
+CMake: 3.6.3@/home/daisy/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/163.15188.10/bin/cmake/bin/cmake
